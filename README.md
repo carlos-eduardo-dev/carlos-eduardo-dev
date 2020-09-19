@@ -1,3 +1,4 @@
+<img aling="center" width="100%" src=".github/img/programmer.jpg">
 
 # Carlos Eduardo
 
