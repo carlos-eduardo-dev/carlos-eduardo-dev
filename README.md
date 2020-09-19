@@ -2,10 +2,10 @@
 # Carlos Eduardo
 
 ## Olá pessoal,
-Sou um estudande da engenharia de software e um apaixonado por tecnologia, 
+Sou um estudande da engenharia de software e um apaixonado por tecnologia.
  
  &nbsp; Estou desempregado no momento <br/>
- &nbsp; Minha stack: C, Java, HTML e CSS <br/>
+ &nbsp; Uso a linguagem C para os estudos na faculdade, estou aprendendo Java como autodidata. Sei também HTML e CSS <br/>
  &nbsp; Estudo atualmente na Universidade Federal de Goiás (UFG) <br/>
  &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-CarlosEduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-eduardo-dev/)](https://www.linkedin.com/in/carlos-eduardo-dev/) 
 | 
