@@ -1,4 +1,4 @@
-<img  width="100%" src=".github/img/programmer.jpg">
+<img  width="100%" src=".github/img/img.jpg">
 
 # Carlos Eduardo
 
